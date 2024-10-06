@@ -1,4 +1,4 @@
-const initApp = () => {
+export const initApp = () => {
   console.log('Application started');
 };
 
