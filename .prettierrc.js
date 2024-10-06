@@ -11,6 +11,6 @@ const config = {
   singleQuote: true,
   endOfLine: 'lf',
   printWidth: 80,
-}
+};
 
-export default config
+export default config;
