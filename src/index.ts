@@ -1,5 +1,5 @@
 const initApp = () => {
-  console.log("App 1");
+  console.log('Application started');
 };
 
 initApp();
