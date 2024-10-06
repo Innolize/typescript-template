@@ -1,5 +1,5 @@
-import { register } from 'node:module'
-import { pathToFileURL } from 'node:url'
+import { register } from 'node:module';
+import { pathToFileURL } from 'node:url';
 
 // Register ts-node/esm loader
-register('ts-node/esm', pathToFileURL('./'))
+register('ts-node/esm', pathToFileURL('./'));

@@ -1,2 +1,5 @@
 node_modules
 dist
+
+## Code coverage folder
+coverage
